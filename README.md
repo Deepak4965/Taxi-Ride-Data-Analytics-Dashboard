@@ -1,6 +1,6 @@
 # 🚕 Taxi Ride Analysis Dashboard | Power BI
 
-![Home Page](./HomePage.png)
+
 
 
 ## 📊 Project Overview
@@ -43,7 +43,7 @@ Available reports:
 - Cancellation Report
 - Rating Report
 - Summary Report
-![Home Page](Dashboard_Screenshots/HomePage.png)
+![Home Page](./HomePage.png)
 ---
 ## 📊 2. Overall Analysis
 The Overall Report provides a high-level overview of taxi booking performance.
@@ -54,7 +54,7 @@ The Overall Report provides a high-level overview of taxi booking performance.
 - Cancellation Rate
 - Category-wise Booking Status
 - Monthly Booking Trends
-![Overall Analysis](Dashboard_Screenshots/Overall.png)
+![Overall Analysis](./Overall.png)
 ---
 ## 🚗 3. Vehicle Analysis
 The Vehicle Report compares performance across different vehicle categories.
@@ -74,7 +74,7 @@ The Vehicle Report compares performance across different vehicle categories.
 - Average Distance Travelled
 - Total Distance Travelled
 
-![Vehicle Analysis](Dashboard_Screenshots/Vehicle.png)
+![Vehicle Analysis](./Vehicle.png)
 
 ---
 ## 💰 4. Revenue Analysis
@@ -95,7 +95,7 @@ The Revenue Report focuses on booking value, revenue and ride-distance analysis.
 - Credit Card
 - Debit Card
 
-![Revenue Analysis](Dashboard_Screenshots/Revenue.png)
+![Revenue Analysis](./Revenue.png)
 
 ---
 ## ❌ 5. Cancellation Analysis
@@ -108,7 +108,7 @@ The Cancellation Report analyzes cancelled rides and their reasons.
 - Cancelled Booking Count
 - Cancellation Rate
 
-![Cancellation Analysis](Dashboard_Screenshots/Cancellation.png)
+![Cancellation Analysis](./Cancellation.png)
 
 ---
 ## ⭐ 6. Rating Analysis
@@ -118,7 +118,7 @@ The Rating Report compares customer and driver ratings across different vehicle 
 - Driver Rating
 - Vehicle-wise Rating Comparison
 
-![Rating Analysis](Dashboard_Screenshots/Rating.png)
+![Rating Analysis](./Rating.png)
 
 ---
 ## 📋 7. Summary Report
@@ -134,7 +134,7 @@ The Summary Report provides a consolidated view of important business metrics.
 - Monthly Revenue
 - Weekly Bookings
 
-![Summary Report](Dashboard_Screenshots/SummaryPage.png)
+![Summary Report](./SummaryPage.png)
 
 ---
 
