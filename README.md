@@ -73,7 +73,6 @@ The Vehicle Report compares performance across different vehicle categories.
 - Successful Booking Value
 - Average Distance Travelled
 - Total Distance Travelled
-
 ![Vehicle Analysis](./Vehicle.png)
 
 ---
@@ -117,7 +116,6 @@ The Rating Report compares customer and driver ratings across different vehicle 
 - Customer Rating
 - Driver Rating
 - Vehicle-wise Rating Comparison
-
 ![Rating Analysis](./Rating.png)
 
 ---
