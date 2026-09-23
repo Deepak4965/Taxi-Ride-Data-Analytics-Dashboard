@@ -1,6 +1,7 @@
 # 🚕 Taxi Ride Analysis Dashboard | Power BI
 
-![Taxi Ride Analysis Dashboard](Dashboard_Screenshots/HomePage.png)
+![Home Page](./HomePage.png)
+
 
 ## 📊 Project Overview
 **Taxi Ride Analysis** is an interactive Data Analytics and Business Intelligence dashboard developed using **Microsoft Power BI**.
